@@ -1,0 +1,2 @@
+Release management practice contribution by Haley.
+Testing the GitHub pull request and automated release notes workflow.
