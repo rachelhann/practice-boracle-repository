@@ -1,6 +1,6 @@
 Jamie Casino
-COMP 490 - This is my file
+COMP 490
 
-Release Management Practice - November 18, 2026
-Participated in the GitHub release management activity.
-Practiced creating a branch and submitting a pull request.
+GitHub Release Practice
+Branch: feature/jamie-release-practice
+Practiced making changes on a feature branch for a pull request.
