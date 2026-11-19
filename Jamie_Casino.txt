@@ -1,2 +1,6 @@
 Jamie Casino
 COMP 490 - This is my file
+
+Release Management Practice - November 18, 2026
+Participated in the GitHub release management activity.
+Practiced creating a branch and submitting a pull request.
